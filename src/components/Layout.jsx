@@ -6,9 +6,9 @@ import Logo from '../assets/images/logo.svg';
 import sidebarCollapse from '../assets/icons/toggle.svg';
 import DashboardIcon from '../assets/icons/dashboard.svg';
 import PerspectivesIcon from '../assets/icons/Perspectives.svg';
-import TasksIcon from '../assets/icons/tasks.svg';
-import DocumentsIcon from '../assets/icons/documents.svg';
-import ReportsIcon from '../assets/icons/reports.svg';
+import TasksIcon from '../assets/icons/Tasks.svg';
+import DocumentsIcon from '../assets/icons/Documents.svg';
+import ReportsIcon from '../assets/icons/Reports.svg';
 import UsersRolesIcon from '../assets/icons/usersRoles.svg';
 
 // Icon component that renders SVG inline so currentColor works
