@@ -5,7 +5,7 @@ import Profile from '../assets/images/profile.svg';
 import Logo from '../assets/images/logo.svg';
 import sidebarCollapse from '../assets/icons/toggle.svg';
 import DashboardIcon from '../assets/icons/dashboard.svg';
-import PerspectivesIcon from '../assets/icons/perspectives.svg';
+import PerspectivesIcon from '../assets/icons/Perspectives.svg';
 import TasksIcon from '../assets/icons/tasks.svg';
 import DocumentsIcon from '../assets/icons/documents.svg';
 import ReportsIcon from '../assets/icons/reports.svg';
